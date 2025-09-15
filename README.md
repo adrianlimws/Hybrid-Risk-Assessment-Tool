@@ -12,7 +12,7 @@ The Hybrid Risk Assessment Tool provides a structured approach to identifying, a
 
 ### Key Features
 
-- **Dual-Source Methodology:** Incorporates frameworks from the Microsoft Risk Tool (2002) and Griffith University matrices, increasing analytical rigor and real-world relevance.[1]
+- **Dual-Source Methodology:** Incorporates frameworks from the Microsoft Risk Tool (2002) and Griffith University matrices, increasing analytical rigor and real-world relevance.
 - **Comprehensive Risk Evaluation:** Supports identification, detailed scoring (probability, impact, exposure), coding, and mapping of risks throughout a project’s lifecycle.
 - **Pre- and Post-Mitigation Analysis:** Clearly documents changes in risk levels and exposures after mitigation and contingency plans are applied, enabling accurate measurement of control effectiveness.
 - **Custom Templates:** Includes sheets for risk identification, analysis, prioritization, planning, costing, and lesson tracking, streamlining the risk management workflow.
